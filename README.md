@@ -4,17 +4,17 @@ Software Engineer with experience using frontend and backend technologies such a
 
 ### Projects 🎨
 
-#### ⚽️ FIFA Ultimate Team | [Repo](https://github.com/mikestah808/fifa-ultimate-team-app.git)
+#### 💻 Personal Portfolio | [Repo](https://github.com/mikestah808/Michael-Stafford-Portfolio.git) | [Live](https://michaelstafford-dev.com/)
 
-Inspired by the World Cup, this application is for soccer enthusiasts looking to build and create their best team
+Personal Porfolio created with React, Vite, and deployed on Hostinger
 
 #### 🍿 Movie Keeper | [Frontend Repo](https://github.com/mikestah808/netflix-clone-frontend.git) | [Backend Repo](https://github.com/mikestah808/netflix-clone-backend.git)
 
 Movie storage application that allows for personalization of genres and movies
 
-#### 🏋️‍♀️ My Fit | [Frontend Repo](https://github.com/mikestah808/my-fit-app-frontend.git) | [Backend Repo](https://github.com/mikestah808/my-fit-app.git)
+#### 👕 DIY Shirt | [Repo](https://github.com/mikestah808/ai-products.git)
 
-Application to track your training, create and follow training programs, and reach your fitness goals
+Shirt application that loads, creates, and customizes 3D models by images and colors 
 
 
 <!-- - 🔭 I’m currently working on ...
