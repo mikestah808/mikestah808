@@ -6,7 +6,7 @@ Software Engineer with experience using frontend and backend technologies such a
 
 #### 💻 Personal Portfolio | [Repo](https://github.com/mikestah808/Michael-Stafford-Portfolio.git) | [Live](https://michaelstafford-dev.com/)
 
-Personal Porfolio created with React, Vite, and deployed on Hostinger
+Personal Portfolio created with React, Vite, and deployed on Hostinger
 
 #### 🍿 Movie Keeper | [Frontend Repo](https://github.com/mikestah808/netflix-clone-frontend.git) | [Backend Repo](https://github.com/mikestah808/netflix-clone-backend.git)
 
